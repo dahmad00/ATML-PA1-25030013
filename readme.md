@@ -1,6 +1,9 @@
 # Domain Generalization & Adaptation Notebooks
 
 This repository contains four Jupyter notebooks covering different machine learning tasks related to inductive bias, domain adaptation, domain generalization, and open-set recognition.
+| Course | Assignment | Roll Number |
+|---|---|---|
+| Advanced Topics in Machine Learning (ATML) | Programming Assignment 1 (PA1) | 2025-03-0013 |
 
 ## Notebooks
 
